@@ -5,7 +5,7 @@
 }
 .home-grid {
     display: grid;
-    grid-template-columns: 183px 1fr 50px 1fr 50px 1fr 183px;
+
 }
 main {
     text-align: center;
